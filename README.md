@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/ramilamparo/ramilamparo/master/wave.gif" width="30px">
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on on [![LinkedIn][3.2]][3].
+My name is Ram and I'm a software developer. I'm am from UAE, living in Dubai. You can find me on on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 
@@ -24,7 +24,7 @@ My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from S
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramilamparo&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/ramilamparo/ramilamparo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramilamparo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramilamparo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ram's GitHub Stats" />
 </a>
 
 <!-- links to social media icons -->
@@ -38,7 +38,7 @@ My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from S
 
 [1.2]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
 [2.2]: http://i.imgur.com/9I6NRUm.png "github icon without padding"
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png "LinkedIn icon without padding"
+[3.2]: https://raw.githubusercontent.com/ramilamparo/ramilamparo/linkedin-3-16.png "LinkedIn icon without padding"
 
 <!-- links to your social media accounts -->
 
