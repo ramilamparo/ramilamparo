@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/ramilamparo/ramilamparo/master/wave.gif" width="30px">
 
-My name is Ram and I'm a software developer. I'm am from UAE, living in Dubai. You can find me on on [![LinkedIn][3.2]][3].
+My name is Ram and I'm a software developer. I'm am from UAE, living in Dubai. You can find me on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 
@@ -39,7 +39,7 @@ My name is Ram and I'm a software developer. I'm am from UAE, living in Dubai. Y
 
 [1.2]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
 [2.2]: http://i.imgur.com/9I6NRUm.png "github icon without padding"
-[3.2]: https://raw.githubusercontent.com/ramilamparo/ramilamparo/linkedin-3-16.png "LinkedIn icon without padding"
+[3.2]: https://raw.githubusercontent.com/ramilamparo/ramilamparo/master/linkedin-3-16.png "LinkedIn icon without padding"
 
 <!-- links to your social media accounts -->
 
